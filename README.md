@@ -31,7 +31,7 @@ Unknown average trip count – 814
 ![image](https://user-images.githubusercontent.com/86136535/135786863-59ae4f79-283c-4f8b-b2fa-204a2370238f.png)
 
 
-[https://public.tableau.com/app/profile/leonardo.aleixo/viz/Book2_16321788320570/Dashboard2?publish=yes]
+[Link to dashboard](https://public.tableau.com/app/profile/leonardo.aleixo/viz/Book2_16321788320570/Dashboard2?publish=yes)
 
 
 ### Checkout times by gender. 
